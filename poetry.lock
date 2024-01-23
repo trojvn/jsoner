@@ -11,7 +11,22 @@ files = [
     {file = "aiofiles-23.2.1.tar.gz", hash = "sha256:84ec2218d8419404abcb9f0c02df3f34c6e0a68ed41072acfb1cef5cbc29051a"},
 ]
 
+[[package]]
+name = "tooler"
+version = "0.1.0"
+description = ""
+optional = false
+python-versions = "^3.11"
+files = []
+develop = false
+
+[package.source]
+type = "git"
+url = "https://gitlab.yuharan.ru/mrx/tooler.git"
+reference = "HEAD"
+resolved_reference = "128d837c43eef3a2d669fbf36081460248cf2b4a"
+
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "11238aeebb909046ce885e6a92831879cf89b727106dd4c7ad5d48c453290d80"
+content-hash = "28086999d250e674821d93fe1dfced3937786c163f8ba0c740875e444ac50d72"

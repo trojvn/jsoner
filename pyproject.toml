@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 aiofiles = "^23.2.1"
+tooler = {git = "https://gitlab.yuharan.ru/mrx/tooler.git"}
 
 
 [build-system]
