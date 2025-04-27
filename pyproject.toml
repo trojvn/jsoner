@@ -8,7 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 aiofiles = "^23.2.1"
-tooler = {git = "https://github.com/trojvn/tooler.git"}
 
 
 [build-system]
